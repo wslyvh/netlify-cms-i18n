@@ -1,1 +1,1 @@
-# netlify-cms-i18n
+# Gatsby Netlify CMS i18n
