@@ -1,4 +1,4 @@
 ---
-title: Segundo
+title: Segundo articulo
 ---
-Segundo item
+Segundo item...
